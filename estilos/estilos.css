@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(255, 255, 255);
+}
+.cajauno {
+    height: 60px;
+    background-color: rgb(2, 22, 48);
+    border: 2px solid rgb(255, 255, 255);
+}
+.cajados {
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid white;
+}
+.cajatres {
+    height: 50px;
+    background-color: rgb(85, 160, 190);
+    border: 8px solid white;
+}
+.cajacuatro {
+    height: 30px;
+    background-color: skyblue;
+    border: 2px solid white;
+}
+.cajacinco {
+    height: 40px;
+    background-color: lightblue;
+    border: 2px solid white;
+}
+.cajaseis {
+    height: 620px;
+    background-color: rgb(86, 100, 223);
+    border: 2px solid white;
+}
+.cajasiete {
+    height: 35px;
+    background-color: rgb(135, 176, 229);
+    border: 2px solid white;
+}
+.cajaocho{
+    height: 20px;
+    background-color: rgb(12, 89, 161);
+    border: 2px solid white;
+}
+.cajanueve {
+    height: 8px;
+    background-color: rgb(3, 30, 54);
+    border: 2px solid white;
+}
+.cajadiez {
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid white;
+}
